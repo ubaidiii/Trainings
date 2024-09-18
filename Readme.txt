@@ -1,1 +1,1 @@
-Test file for Jenkins Training
+Test file for Trainings
